@@ -1,0 +1,14 @@
+#title {
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-size: 48px;
+}
+p {
+    text-align: center;
+}
+a {
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
